@@ -28,7 +28,7 @@ I believe in using technology not just to build things—but to build impact.
 ---
 
 📫 **Connect With Me**  
-- 💼 LinkedIn: [Your LinkedIn link]  
+- 💼 LinkedIn:https://www.linkedin.com/in/khushanuma-mansuri-7b0789292
 - 📧 Email:khushanuma.shabbir@gmail.com
 
 ---
