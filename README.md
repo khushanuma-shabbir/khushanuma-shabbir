@@ -29,7 +29,7 @@ I believe in using technology not just to build things—but to build impact.
 
 📫 **Connect With Me**  
 - 💼 LinkedIn: [Your LinkedIn link]  
-- 📧 Email: khushanuma.shabbir@gmail.com
+- 📧 Email:khushanuma.shabbir@gmail.com
 
 ---
 
