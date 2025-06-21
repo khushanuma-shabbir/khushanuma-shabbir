@@ -1,17 +1,43 @@
-# Hi there 👋, I'm Khushanuma Shabbir Mansuri
-<h1><B>UPCOMING IT ENGINEER</B></h1>
+![Banner](https://raw.githubusercontent.com/khushanuma-shabbir/khushanuma-shabbir/main/banner.png)
 
-<!--
-**khushanuma-shabbir/khushanuma-shabbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Hi there, I'm Khushanuma Shabbir Mansuri 👋  
+## 💻 UPCOMING IT ENGINEER | 🌿 Environmental Advocate | 🚀 Tech Explorer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **About Me**  
+I'm a second-year B.Tech IT student with a curious mind and a creative heart.  
+From building sensor-based projects to leading community service initiatives,  
+I believe in using technology not just to build things—but to build impact.
+
+---
+
+🛠️ **What I'm Working On**  
+- ♻️ A green bag initiative with Sahara Welfare Society (1,000+ children reached!)  
+- 🤖 C++-based sensor automation projects  
+- 🧠 Currently learning Gen-AI
+
+---
+
+💡 **Interests**  
+- Drones & Mechatronics  
+- Sustainable Tech Solutions  
+- Practical AI & Robotics  
+- Teamwork & Innovation
+
+---
+
+📫 **Connect With Me**  
+- 💼 LinkedIn: [Your LinkedIn link]  
+- 📧 Email: [Your Email Address]
+
+---
+
+🎯 **Motto**  
+_"Think it. Build it. Share it. Improve the world with code."_
+
+---
+
+✨ **Fun fact:**  
+I can speak both human and machine languages  
+(…and sometimes bird language while teaching kids how to make feeders 😄)
