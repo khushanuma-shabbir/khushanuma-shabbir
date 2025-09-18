@@ -15,6 +15,9 @@
   
 #### I am Khushanuma Shabbir Mansuri, a third-year B.Tech IT student at NMIMS, passionate about Drones, Mechatronics, and Software Development. Skilled in C++, SQL, and Web Development, with hands-on experience in automation and drone technology. Creator of DroneLog, an autonomous drone for inventory management, and contributor to eco-friendly initiatives with Sahara Welfare Society.
 </p>
+
+---
+
 ## 🔭 Current Focus
 - Learning **UI/UX design** for websites to create better user experiences.  
 - Learning the **MERN stack** (MongoDB, Express.js, React.js, Node.js) for full-stack development.  
@@ -26,3 +29,4 @@
 - 🐙 [GitHub](https://github.com/khushanuma-shabbir?tab=overview&from=2025-08-01&to=2025-08-31)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/khushanuma-mansuri-7b0789292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 📧 [Email](mailto:khushanuma.shabbir@gmail.com)  
+
