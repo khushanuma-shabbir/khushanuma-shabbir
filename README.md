@@ -29,4 +29,16 @@
 - 🐙 [GitHub](https://github.com/khushanuma-shabbir?tab=overview&from=2025-08-01&to=2025-08-31)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/khushanuma-mansuri-7b0789292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 📧 [Email](mailto:khushanuma.shabbir@gmail.com)  
+---
+## 👨‍💻 Technical Skills
 
+### Languages & Tools
+Java • Python • C++ • JavaScript • SQL • HTML • CSS • VSCode • Power BI
+
+### Databases & Hosting
+MySQL • Firebase • Mongodb
+
+### Design & ML
+Figma • Goggle Colab
+
+---
