@@ -10,13 +10,13 @@
 <p align="center">
   <img src="https://i.pinimg.com/1200x/58/c4/38/58c43830365d8fb2eab1a612a64d7c4e.jpg" alt="Banner" width="100%" />
 </p>
-
 👋 Hi, I'm Khushanuma
 
 B.Tech IT student at NMIMS, passionate about Drones, Mechatronics & Software Development.
-I build autonomous drones, lead eco-friendly initiatives, and transform innovative ideas into real-world solutions.
+I build autonomous drones, lead eco-friendly initiatives, and turn innovative ideas into real-world solutions.
+I enjoy solving complex problems, exploring new technologies, and creating impactful projects.
 
-✨ Always exploring, always creating - curious to see what I’m building next?
+✨ Always learning, always building—curious to see what I’m creating next?
 
 ---
 <div>
