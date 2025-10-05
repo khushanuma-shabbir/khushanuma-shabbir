@@ -60,36 +60,38 @@ I enjoy solving complex problems, exploring new technologies, and creating impac
 ---
 
 <div>
+<div>
 <details>
   <summary>💼 Work Experience</summary>
 <br>
 
-### IIT Bombay – Campus Ambassador (Jul 2025 – Dec 2025)  
-**Role:** Campus Ambassador  
-- Promoted IIT Bombay events and programs in college.  
-- Coordinated with IIT Bombay team for smooth event execution.  
-- Encouraged peers to participate in workshops, hackathons, and webinars.
+- **IIT Bombay – Campus Ambassador** (Jul 2025 – Present)  
+  **Role:** Campus Ambassador  
+  - Promoted IIT Bombay events and programs in college.  
+  - Coordinated with IIT Bombay team for smooth event execution.  
+  - Encouraged peers to participate in workshops, hackathons, and webinars.  
 
-### UAS NMIMS – Technical Member (Jul 2024 – Present)  
-**Role:** Technical Member  
-- Assisted in designing and building drones for club projects.  
-- Worked on automation, mechatronics, and drone-based delivery mechanisms.  
-- Collaborated with the team to optimize drone performance and participate in competitions.
+- **UAS NMIMS – Technical Member** (Jul 2024 – Present)  
+  **Role:** Technical Member  
+  - Assisted in designing and building drones for club projects.  
+  - Worked on automation, mechatronics, and drone-based delivery mechanisms.  
+  - Collaborated with the team to optimize drone performance and participate in competitions.  
 
-### Well Being Club – Content Creator (Dec 2025 – Present)  
-**Role:** Content Creator  
-- Created engaging content for social media and internal communication.  
-- Assisted in planning events and activities to promote student well-being.  
-- Produced creative posts, graphics, and videos to raise awareness about mental health.  
+- **Well Being Club – Content Creator** (Sep 2025 – Present)  
+  **Role:** Content Creator  
+  - Created engaging content for social media and internal communication.  
+  - Assisted in planning events and activities to promote student well-being.  
+  - Produced creative posts, graphics, and videos to raise awareness about mental health.  
 
-### Sahara Welfare Society – Volunteer (April 2024 – July 2024)  
-**Role:** Volunteer  
-- Distributed eco-friendly green bags to over 2,000 children across 21 schools.  
-- Conducted environmental awareness sessions and taught sustainable practices.  
-- Motivated students and engaged with local communities.  
+- **Sahara Welfare Society – Volunteer** (Apr 2024 – Jul 2024)  
+  **Role:** Volunteer  
+  - Distributed eco-friendly green bags to over 2,000 children across 21 schools.  
+  - Conducted environmental awareness sessions and taught sustainable practices.  
+  - Motivated students and engaged with local communities.  
 
 </details>
 </div>
+
 
 ---
 
