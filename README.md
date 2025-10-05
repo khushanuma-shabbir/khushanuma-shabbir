@@ -100,10 +100,18 @@ I enjoy solving complex problems, exploring new technologies, and creating impac
 
 - **NMIMS Shirpur** (Jul 2023 – Present)  
   **B.Tech in Information Technology** | CGPA: 3.2 / 4.0  
-  *Relevant Coursework:* Data Structures, Algorithms, Database Management, Operating Systems, Computer Network, Software Engineering  
+  *Relevant Coursework:* Data Structures, Algorithms, Database Management, Operating Systems, Computer Networks, Software Engineering  
+
+- **Shri S.L. Mali Junior College, Taloda** (2020 – 2022)  
+  **Higher Secondary / HSC (PCMB)** | Percentage: 85.83%  
+
+- **Shrimoti Vidyamandir, Taloda** (Up to 2020)  
+  **Secondary School Certificate (SSC)** | Percentage: 90%  
 
 </details>
 </div>
+
+
 
 ---
 
