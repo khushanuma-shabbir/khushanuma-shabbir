@@ -14,7 +14,7 @@
 
 B.Tech IT student at NMIMS, passionate about Drones, Mechatronics & Software Development.
 I build autonomous drones, lead eco-friendly initiatives, and turn innovative ideas into real-world solutions.
-I enjoy solving complex problems, exploring new technologies, and creating impactful projects.
+I enjoy solving real-world problems, exploring new technologies, and creating impactful projects.
 
 ✨ Always learning, always building—curious to see what I’m creating next?
 
