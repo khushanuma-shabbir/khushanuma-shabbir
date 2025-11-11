@@ -139,7 +139,6 @@ I enjoy solving real-world problems, exploring new technologies, and creating im
   <summary>📫 Contact</summary>
 <br>
 
-- Resume: [Download](https://drive.google.com/file/d/1_5zeMXJIrN8zj_wUloTSwluWxCEUQO-r/view?usp=drivesdk)  
 - GitHub: [khushanuma-shabbir](https://github.com/khushanuma-shabbir)  
 - LinkedIn: [Khushanuma Mansuri](https://www.linkedin.com/in/khushanuma-mansuri-7b0789292/)  
 - Email: [khushanuma.shabbir@gmail.com](mailto:khushanuma.shabbir@gmail.com)  
