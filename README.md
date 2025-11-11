@@ -123,11 +123,19 @@ I enjoy solving real-world problems, exploring new technologies, and creating im
 <br>
 
 - 2nd Runner-Up - Yuganter 2.0 Hackathon, SIH College Internal Hackathon
+- Data Base Management System - NPTEL(IIT Kharagpur)
 - Introduction to Generative AI - Google Cloud Skills Boost
 - Introduction to Large Language Models - Google Cloud Skills Boost
 - Introduction to Responsible AI - Google Cloud Skills Boost
 - Applying AI Principles with Google Cloud - Google Cloud Skills Boost
 - Basics of Python - Infosys Springboard
+- Introduction to Generative AI- AWS Training 
+- Describe cost management in Azure - Microsoft Learning
+- Describe Cloud Computing - Microsoft Learning
+- Microsoft Azure Fundamentals:Describe cloud concepts - Microsoft Learning
+- Introduction to the Microsoft Azure Well-Architecture Framework - Microsoft Learning
+- Describe Cloud Service Types - Microsoft Learning
+- Describe the benefits of using cloud service - Microsoft Learning
 
 </details>
 </div>
