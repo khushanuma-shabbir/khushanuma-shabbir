@@ -108,7 +108,7 @@ I enjoy solving real-world problems, exploring new technologies, and creating im
   **Higher Secondary / HSC (PCMB)** | Percentage: 85.83%  
 
 - **Shrimoti Vidyamandir, Taloda** (Up to 2020)  
-  **Secondary School Certificate (SSC)** | Percentage: 90%  
+  **Secondary School Certificate (SSC)** | Percentage: 92%  
 
 </details>
 </div>
