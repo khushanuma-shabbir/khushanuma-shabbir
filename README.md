@@ -71,7 +71,7 @@ I enjoy solving real-world problems, exploring new technologies, and creating im
   - Coordinated with IIT Bombay team for smooth event execution.  
   - Encouraged peers to participate in workshops, hackathons, and webinars.  
 
-- **UAS NMIMS – Technical Member** (Jul 2024 – Present)  
+- **UAS NMIMS – Technical Member** (Jul 2024 – Oct 2025)  
   **Role:** Technical Member  
   - Assisted in designing and building drones for club projects.  
   - Worked on automation, mechatronics, and drone-based delivery mechanisms.  
