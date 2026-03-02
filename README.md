@@ -64,7 +64,20 @@ I enjoy solving real-world problems, exploring new technologies, and creating im
 <details>
   <summary>💼 Work Experience</summary>
 <br>
+  
+- **NMIMS – Placement Coordinator** (Jan 2026 – Present)  
+  **Role:** Placement Coordinator  
+  - Coordinating placement activities between students and recruiters.  
+  - Managing student data, eligibility, and placement documentation.  
+  - Assisting in organizing interviews, pre-placement talks, and campus drives.  
+  - Ensuring timely communication of job opportunities to students.
 
+- **Well Being Club – Content Creator** (Sep 2025 – Present)  
+  **Role:** Content Creator  
+  - Created engaging content for social media and internal communication.  
+  - Assisted in planning events and activities to promote student well-being.  
+  - Produced creative posts, graphics, and videos to raise awareness about mental health.  
+  
 - **IIT Bombay – Campus Ambassador** (Jul 2025 – Dec 2025)  
   **Role:** Campus Ambassador  
   - Promoted IIT Bombay events and programs in college.  
@@ -76,12 +89,6 @@ I enjoy solving real-world problems, exploring new technologies, and creating im
   - Assisted in designing and building drones for club projects.  
   - Worked on automation, mechatronics, and drone-based delivery mechanisms.  
   - Collaborated with the team to optimize drone performance and participate in competitions.  
-
-- **Well Being Club – Content Creator** (Sep 2025 – Present)  
-  **Role:** Content Creator  
-  - Created engaging content for social media and internal communication.  
-  - Assisted in planning events and activities to promote student well-being.  
-  - Produced creative posts, graphics, and videos to raise awareness about mental health.  
 
 - **Sahara Welfare Society – Volunteer** (Apr 2024 – Jul 2024)  
   **Role:** Volunteer  
