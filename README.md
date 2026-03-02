@@ -65,7 +65,7 @@ I enjoy solving real-world problems, exploring new technologies, and creating im
   <summary>💼 Work Experience</summary>
 <br>
 
-- **IIT Bombay – Campus Ambassador** (Jul 2025 – Present)  
+- **IIT Bombay – Campus Ambassador** (Jul 2025 – Dec 2025)  
   **Role:** Campus Ambassador  
   - Promoted IIT Bombay events and programs in college.  
   - Coordinated with IIT Bombay team for smooth event execution.  
