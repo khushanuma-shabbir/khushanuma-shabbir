@@ -8,7 +8,11 @@
 
 <!-- Full-width banner image -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/58/c4/38/58c43830365d8fb2eab1a612a64d7c4e.jpg" alt="Banner" width="100%" />
+
+  
+  <!-- img src="https://i.pinimg.com/1200x/58/c4/38/58c43830365d8fb2eab1a612a64d7c4e.jpg" alt="Banner" width="100%" / -->
+
+  
 </p>
 👋 Hi, I'm Khushanuma
 
