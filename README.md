@@ -6,10 +6,14 @@
 </a>
 </p>
 
+
 <!-- Full-width banner image -->
 <p align="center">
   <img src="images/Banner2.gif" alt="Banner" width="100%" />
   <!-- img src="https://i.pinimg.com/1200x/58/c4/38/58c43830365d8fb2eab1a612a64d7c4e.jpg" alt="Banner" width="100%" / -->
+</p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=khushanuma-shabbir&label=Visitors&color=f781be&style=flat" />
 </p>
 👋 Hi, I'm Khushanuma
 
