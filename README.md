@@ -24,6 +24,31 @@ I enjoy solving real-world problems, exploring new technologies, and creating im
 ✨ Always learning, always building—curious to see what I’m creating next?
 
 ---
+
+<div>
+<details>
+  <summary>⚡ Khushanuma's Dashboard</summary>
+
+<br>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=khushanuma-shabbir&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushanuma-shabbir&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="160em" src="https://streak-stats.demolab.com/?user=khushanuma-shabbir&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=khushanuma-shabbir&theme=radical&no-frame=true&margin-w=15"/>
+</p>
+
+</details>
+</div>
+
+---
+
 <div>
 <details>
   <summary>⚙️ Technical Skills</summary>
