@@ -46,12 +46,19 @@ I enjoy solving real-world problems, exploring new technologies, and creating im
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
 
-**AI / Web3:** 
+**Web3:** 
 <br>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
 <img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
 <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
+
+**AI / ML:**
+<br>
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 **Databases:** 
 <br>
