@@ -182,7 +182,8 @@ I enjoy solving real-world problems, exploring new technologies, and creating im
 
 - GitHub: [khushanuma-shabbir](https://github.com/khushanuma-shabbir)  
 - LinkedIn: [Khushanuma Mansuri](https://www.linkedin.com/in/khushanuma-mansuri-7b0789292/)  
-- Email: [khushanuma.shabbir@gmail.com](mailto:khushanuma.shabbir@gmail.com)  
+- Email: [khushanuma.shabbir@gmail.com](mailto:khushanuma.shabbir@gmail.com)
+- Protfolio: [khushanumashabbir.vercel.app](https://khushanumashabbir.vercel.app/)
 
 </details>
 </div>
