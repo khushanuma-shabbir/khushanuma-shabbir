@@ -188,3 +188,6 @@ I enjoy solving real-world problems, exploring new technologies, and creating im
 
 </details>
 </div>
+<p align="center">
+  <img src="images/kitty.png" alt="Kitty" width="300"/>
+</p>
