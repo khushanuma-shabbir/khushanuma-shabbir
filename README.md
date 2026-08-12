@@ -157,6 +157,7 @@ I enjoy solving real-world problems, exploring new technologies, and creating im
 - 2nd Runner-Up - Yuganter 2.0 Hackathon, SIH College Internal Hackathon
 - Campus Ambassador | Secured Top 120 Rank - IIT Bombay Techfest 2025
 - Data Base Management System - NPTEL(IIT Kharagpur)
+- AWS Educate - Introduction to Cloud(101)
 - Introduction to Generative AI - Google Cloud Skills Boost
 - Introduction to Large Language Models - Google Cloud Skills Boost
 - Introduction to Responsible AI - Google Cloud Skills Boost
