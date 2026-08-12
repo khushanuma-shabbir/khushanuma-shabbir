@@ -166,7 +166,7 @@ I enjoy solving real-world problems, exploring new technologies, and creating im
 - Introduction to Generative AI- AWS Training 
 - Describe cost management in Azure - Microsoft Learning
 - Describe Cloud Computing - Microsoft Learning
-- Microsoft Azure Fundamentals:Describe cloud concepts - Microsoft Learning
+- Microsoft Azure Fundamentals: Describe cloud concepts - Microsoft Learning
 - Introduction to the Microsoft Azure Well-Architecture Framework - Microsoft Learning
 - Describe Cloud Service Types - Microsoft Learning
 - Describe the benefits of using cloud service - Microsoft Learning
