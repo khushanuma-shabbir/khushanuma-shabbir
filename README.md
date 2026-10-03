@@ -170,6 +170,8 @@ I enjoy solving real-world problems, exploring new technologies, and creating im
 - Introduction to the Microsoft Azure Well-Architecture Framework - Microsoft Learning
 - Describe Cloud Service Types - Microsoft Learning
 - Describe the benefits of using cloud service - Microsoft Learning
+- AWS Academy Graduate - Cloud Architecting - AWS Academy
+- Managing Projects with AI - Coursera (AI CERTs)
 
 </details>
 </div>
