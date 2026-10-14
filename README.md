@@ -97,7 +97,7 @@ I enjoy solving real-world problems, exploring new technologies, and creating im
   - Assisting in organizing interviews, pre-placement talks, and campus drives.  
   - Ensuring timely communication of job opportunities to students.
 
-- **Well Being Club – Content Creator** (Sep 2025 – Present)  
+- **Well Being Club – (Head) Content Creator** (Sep 2025 – Present)  
   **Role:** Content Creator  
   - Created engaging content for social media and internal communication.  
   - Assisted in planning events and activities to promote student well-being.  
